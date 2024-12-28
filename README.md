@@ -3,23 +3,6 @@
 Your compute, your currency
 Transform your compute power into real earnings
 
-## Join My Telegram Channel
-
-        █████╗ ██╗██████╗ ██████╗ ██████╗  ██████╗ ██████╗ 
-       ██╔══██╗██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔══██╗
-       ███████║██║██████╔╝██║  ██║██████╔╝██║   ██║██████╔╝
-       ██╔══██║██║██╔══██╗██║  ██║██╔══██╗██║   ██║██╔═══╝ 
-       ██║  ██║██║██║  ██║██████╔╝██║  ██║╚██████╔╝██║     
-       ╚═╝  ╚═╝╚═╝╚═╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     
-                                                           
-       ██╗███╗   ██╗███████╗██╗██████╗ ███████╗██████╗     
-       ██║████╗  ██║██╔════╝██║██╔══██╗██╔════╝██╔══██╗    
-       ██║██╔██╗ ██║███████╗██║██║  ██║█████╗  ██████╔╝    
-       ██║██║╚██╗██║╚════██║██║██║  ██║██╔══╝  ██╔══██╗    
-       ██║██║ ╚████║███████║██║██████╔╝███████╗██║  ██║    
-       ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-
-[*MY CHANNEL*](https://t.me/AirdropInsiderID)
 
 ## Features
 
@@ -44,7 +27,7 @@ Transform your compute power into real earnings
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/airdropinsiders/Kaisar-Zero-Node-Bot.git
+   git clone https://github.com/himiko3939/kaisar.git
    cd Kaisar-Zero-Node-Bot
    ```
 2. install dependencies:
